@@ -63,8 +63,8 @@
     <CoverletMSBuildVersion>6.0.0</CoverletMSBuildVersion>
     <MicrosoftBuildFrameworkVersion>17.8.3</MicrosoftBuildFrameworkVersion>
     <MicrosoftBuildUtilitiesCoreVersion>17.8.3</MicrosoftBuildUtilitiesCoreVersion>
-    <MicrosoftCodeAnalysisVersion>4.7.0</MicrosoftCodeAnalysisVersion>
-    <MicrosoftCodeAnalysisCSharpVersion>4.7.0</MicrosoftCodeAnalysisCSharpVersion>
+    <MicrosoftCodeAnalysisVersion>4.12.0</MicrosoftCodeAnalysisVersion>
+    <MicrosoftCodeAnalysisCSharpVersion>4.12.0</MicrosoftCodeAnalysisCSharpVersion>
     <MicrosoftCodeAnalysisCSharpCodeStyleVersion>4.7.0</MicrosoftCodeAnalysisCSharpCodeStyleVersion>
     <MicrosoftCodeAnalysisNetAnalyzersVersion>8.0.0</MicrosoftCodeAnalysisNetAnalyzersVersion>
     <MicrosoftNETTestSdkVersion>17.8.0</MicrosoftNETTestSdkVersion>
